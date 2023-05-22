@@ -1,7 +1,19 @@
-https://colab.research.google.com
-
 https://www.kaggle.com/code
+1. How Models Work - DanB
+2. Your First Machine Learning Model - DanB
+3. Machine Learning Tutorial for Beginners (delot za regression) - DATAI
+4. A Detailed Regression Guide with House-pricing - Masum Rumi
+5. #1 House Prices Solution [top 1%] Nanashi
+6. House Price Prediction 🏡 - Emre Arslan
+7. Stacked Regressions : Top 4% on LeaderBoard - Serigne
 
 https://scikit-learn.org/stable/
+1. https://scikit-learn.org/stable/supervised_learning.html#supervised-learning (1.1?)
 
 https://keras.io
+1. Training & evaluation with the built-in methods
+2. Customizing what happens in fit()
+3. Model training APIs
+4. Regression metrics
+5. Accuracy metrics
+6. Losses (Regression)
