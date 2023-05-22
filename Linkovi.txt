@@ -1,7 +1,0 @@
-https://colab.research.google.com
-
-https://www.kaggle.com/code
-
-https://scikit-learn.org/stable/
-
-https://keras.io
